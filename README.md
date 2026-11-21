@@ -1,4 +1,4 @@
-<img src="assets/logo.png" width="112" height="112" alt="ValueBounds logo">
+<img src="assets/logo.png" width="112" height="112" alt="Blyx penguin moving a setting slider between two marked limits.">
 
 # ValueBounds
 
@@ -70,7 +70,7 @@ Returns [in bounds, nearest legal value, absolute distance outside]. Reversed bo
 
 ## Verification and contributions
 
-The regression suite in [tests.blyx](tests.blyx) checks the example, boundary cases and invalid inputs. Include a short reproducer and your compiler version in [an issue](https://github.com/Rahulchaube1/blyx-valuebounds/issues). The source is dual-licensed under [MIT](LICENSE-MIT) or [Apache-2.0](LICENSE-APACHE). The package artwork uses [Lucide icons](https://lucide.dev/license); see [artwork notices](assets/NOTICE.txt).
+The regression suite in [tests.blyx](tests.blyx) checks the example, boundary cases and invalid inputs. Include a short reproducer and your compiler version in [an issue](https://github.com/Rahulchaube1/blyx-valuebounds/issues). The source is dual-licensed under [MIT](LICENSE-MIT) or [Apache-2.0](LICENSE-APACHE). Read the [artwork notice](assets/NOTICE.txt) for credits.
 
 ## Connect with Rahul Chaube
 
